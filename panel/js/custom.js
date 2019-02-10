@@ -24,7 +24,7 @@ COMMING SOON PAGE
             hours.html('<h1>0</h1><p>Hour</p>');
             minutes.html('<h1>0</h1><p>Minute</p>');
             seconds.html('<h1>0</h1><p>Second</p>');
-            message.html('Official Web Portal of Dhimaz Roby Satrio');
+            message.html('Official Web Portal of Dhimas Roby Satrio');
         }
         else{
             var s = -now.getTimezoneOffset()*60 + (launch.getTime() - now.getTime())/1000;
@@ -43,7 +43,7 @@ COMMING SOON PAGE
             seconds.html('<h1>'+s+'</h1><p>Second'+(s>1?'s':''),'</p>');
             setTimeout(setDate, 1000);
 
-            message.html('Official Web Portal of <b>Dhimaz Roby Satrio</b><br>mail@dhimaz.cf  <b> | </b>  Hidekazu ID');
+            message.html('Official Web Portal of <strong>Dhimas Roby Satrio</strong> dhimasroby@outlook.com');
         }
     }
 })(jQuery);
