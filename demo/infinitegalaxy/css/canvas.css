@@ -1,0 +1,21 @@
+*{
+	font-family: Segoe UI Light, Tahoma;
+	font-size: 17px;
+	text-shadow: 2px 1px black;
+}
+
+body {
+	background: #7f8c8d;
+}
+canvas {
+	-webkit-box-sizing: border-box;
+ 	-moz-box-sizing: border-box;
+ 	box-sizing: border-box;
+ 	align-items: center;
+ 	position: absolute;
+    left: 0;
+    top: 10;
+    width: 100%;
+    height: 100%;
+
+}

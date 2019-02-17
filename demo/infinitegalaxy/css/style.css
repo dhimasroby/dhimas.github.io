@@ -1,0 +1,93 @@
+* {
+	font-family: Segoe UI Light, Tahoma;
+	font-size: 17px;
+}
+
+body {
+	position: relative;
+}
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+
+#home {
+	padding-top:50px;
+	height:645px;
+	color: #fff; 
+	background: url(../img/bg.png);
+	padding-top:50px;
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+	animation: animatedBackground 30s linear infinite;
+}
+
+
+#synopsis {
+	padding-top:50px;
+	height:400px;
+	color: #000; 
+	background-color: #673ab7;
+
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	text-align: justify;
+	background: url(../img/ornamen.png);
+	background-position: 0px 0px;
+	text-shadow: 2px 1px white;
+	background-repeat: repeat-x;
+	animation: animatedBackground 30s linear infinite;
+}
+
+#synopsis p {
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 18px;
+}
+
+#synopsis h1 {
+	font-size: 56px;
+}
+#credit {
+	padding-top:50px;
+	height:400px;
+	color: #000; 
+	background: url(../img/sky.png);
+	background-position: 0px 0px;
+	text-shadow: 2px 1px white;
+	background-repeat: repeat-x;
+	animation: animatedBackground 30s linear infinite;
+}
+
+#credit h1 {
+	font-size: 52px;
+}
+
+#credit img {
+	width: 40%; border-radius: 50%;padding-bottom: 15px;
+}
+
+#sector-credit {
+	padding-left: 15%;
+	width: 100%;
+}
+
+
+#play {
+	background: url(../img/bg.png);
+	padding-top:50px;
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+	animation: animatedBackground 30s linear infinite;
+	height:665px;
+	color: #fff; 
+}
+  
+#play h1 {
+	font-size: 52px;
+}
+
+#play img {
+ 	width: 300px;
+ }
