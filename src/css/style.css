@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'Bungee Hairline';
+    src: url('../fonts/BungeeHairline-Regular.ttf');
+}
+@font-face {
+    font-family: 'Sen';
+    src: url('../fonts/Sen-Regular.ttf');
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-VariableFont_wght.ttf');
+}
+
+
+a {
+    text-decoration: none;
+    color: #3E3E3E;
+}
+
+.banner h1 {
+    font-family: 'Bungee Hairline', sans-serif;
+    font-size: 4rem;  
+    text-align: center; 
+    margin-bottom: -3.5%;                            
+}
+.banner h2 {
+    font-family: 'Sen', sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    color: #7d7d7d;
+    text-transform: uppercase;  
+    text-align: center;                             
+}
+.banner p {
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    color: #7d7d7d;
+    text-align: center;   
+    margin: 1% 15% 0 15% ;   
+}
+
+
+.Content {
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 70px;
+    margin-inline-end : 40px;
+    width: 27%;    
+    transition: transform 0.8s;
+}
+
+.Content:hover {    
+    transform: scale(1.05);
+}
+
+.thumb {
+   width: 100%;
+   overflow: hidden;
+   position: relative;
+}
+
+.thumb img {
+    width: 100%;
+}
+
+.title {
+    font-family: Raleway;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 90%;
+    margin-bottom: 50px;
+    align-items: center;  
+}
+
+.col {
+    float: left;
+    width: 33.33%;
+}
+
+.col h3 {
+    font-family: 'Bungee Hairline';
+    margin: 0;
+}
+
+#social-icons {
+    color: #3E3E3E;
+    margin-top: 12px;    
+}
+
+.si-content {
+    margin-right: 20px;
+    font-size:  21px;
+    transition: transform 0.5s;
+}
+
+.si-content:hover {
+    color: #7A7A7A;
+    transform: scale(0.90);
+}
+
+#email-link {
+    margin-top: 12px;     
+    color: #3E3E3E;    
+    font-size: 14px;
+}
+
+.col a {
+    font-family: Raleway;
+    margin-left: 18px;
+}
+
+.col a:hover {
+    color: #7A7A7A;
+}
+
+.footer:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.header {
+    margin-top: 15px;
+    width: 77%;
+    display: flex;
+}
+
+.colheader {
+    flex: 50%;
+}
+
+.colheader h2{
+    font-family: 'Bungee Hairline';
+    margin: 0;
+    text-align: left;
+}
+
+#social-icons-header {
+    color: #3E3E3E;
+    margin-top: 20px;    
+    text-align: right;
+}
+
+.DetailContent {
+    float: center;
+}
+
+.DetailContent img {
+    margin-top: 50px;
+    width: 35%;
+}
+
+.DetailContent h2 {
+    font-family: 'Bungee Hairline';
+    font-size: xx-large;
+    margin-bottom: 0;
+    color: #2F2F2F;
+}
+
+.DetailContent h4 {
+    margin-top: -10px;
+    font-size: 21px;
+    font-family: 'Raleway';
+    font-weight: lighter;
+    font-size: large;
+    color: #2F2F2F;
+    width: 77%;
+}
+
+.DetailContent p {
+    text-align: justify;
+    color: #2F2F2F;
+    width: 77%;
+    font-size: 18px;
+    font-family: 'Raleway';
+    font-weight: 400;
+}
