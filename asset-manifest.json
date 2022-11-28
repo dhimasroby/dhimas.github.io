@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.68eb25de.css",
-    "main.js": "/static/js/main.72af8775.js",
-    "static/js/787.717213ab.chunk.js": "/static/js/787.717213ab.chunk.js",
-    "static/media/renat.png": "/static/media/renat.2085ffa03776ee2f9954.png",
-    "static/media/lcv.png": "/static/media/lcv.91d36ae8c78db8012ec5.png",
-    "static/media/aliti.png": "/static/media/aliti.f57c77f598cb94a41c38.png",
-    "static/media/fleting.png": "/static/media/fleting.bb620e442918478937f9.png",
-    "static/media/Raleway-VariableFont_wght.ttf": "/static/media/Raleway-VariableFont_wght.575ec9e676c7a85494bb.ttf",
-    "static/media/rays.png": "/static/media/rays.b1096fe7fc353e02fe5b.png",
-    "static/media/masgan.png": "/static/media/masgan.4778c3666557bff00bd2.png",
-    "static/media/BungeeHairline-Regular.ttf": "/static/media/BungeeHairline-Regular.12cb01ecc8c16532108c.ttf",
-    "static/media/Sen-Regular.ttf": "/static/media/Sen-Regular.b4bcdfa9125d1221a0e3.ttf",
-    "index.html": "/index.html",
-    "main.68eb25de.css.map": "/static/css/main.68eb25de.css.map",
-    "main.72af8775.js.map": "/static/js/main.72af8775.js.map",
-    "787.717213ab.chunk.js.map": "/static/js/787.717213ab.chunk.js.map"
+    "main.css": "./static/css/main.4a97fc4d.css",
+    "main.js": "./static/js/main.9ecb9bc7.js",
+    "static/js/787.717213ab.chunk.js": "./static/js/787.717213ab.chunk.js",
+    "static/media/renat.png": "./static/media/renat.2085ffa03776ee2f9954.png",
+    "static/media/lcv.png": "./static/media/lcv.91d36ae8c78db8012ec5.png",
+    "static/media/aliti.png": "./static/media/aliti.f57c77f598cb94a41c38.png",
+    "static/media/fleting.png": "./static/media/fleting.bb620e442918478937f9.png",
+    "static/media/Raleway-VariableFont_wght.ttf": "./static/media/Raleway-VariableFont_wght.575ec9e676c7a85494bb.ttf",
+    "static/media/rays.png": "./static/media/rays.b1096fe7fc353e02fe5b.png",
+    "static/media/masgan.png": "./static/media/masgan.4778c3666557bff00bd2.png",
+    "static/media/BungeeHairline-Regular.ttf": "./static/media/BungeeHairline-Regular.12cb01ecc8c16532108c.ttf",
+    "static/media/Sen-Regular.ttf": "./static/media/Sen-Regular.b4bcdfa9125d1221a0e3.ttf",
+    "index.html": "./index.html",
+    "main.4a97fc4d.css.map": "./static/css/main.4a97fc4d.css.map",
+    "main.9ecb9bc7.js.map": "./static/js/main.9ecb9bc7.js.map",
+    "787.717213ab.chunk.js.map": "./static/js/787.717213ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68eb25de.css",
-    "static/js/main.72af8775.js"
+    "static/css/main.4a97fc4d.css",
+    "static/js/main.9ecb9bc7.js"
   ]
 }
