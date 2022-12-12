@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac042e63.css",
+    "main.css": "/static/css/main.d6ddbdc1.css",
     "main.js": "/static/js/main.af12bf52.js",
     "static/js/787.717213ab.chunk.js": "/static/js/787.717213ab.chunk.js",
     "static/media/renat.png": "/static/media/renat.2085ffa03776ee2f9954.png",
@@ -22,12 +22,12 @@
     "static/media/BungeeHairline-Regular.ttf": "/static/media/BungeeHairline-Regular.12cb01ecc8c16532108c.ttf",
     "static/media/Sen-Regular.ttf": "/static/media/Sen-Regular.b4bcdfa9125d1221a0e3.ttf",
     "index.html": "/index.html",
-    "main.ac042e63.css.map": "/static/css/main.ac042e63.css.map",
+    "main.d6ddbdc1.css.map": "/static/css/main.d6ddbdc1.css.map",
     "main.af12bf52.js.map": "/static/js/main.af12bf52.js.map",
     "787.717213ab.chunk.js.map": "/static/js/787.717213ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac042e63.css",
+    "static/css/main.d6ddbdc1.css",
     "static/js/main.af12bf52.js"
   ]
 }
